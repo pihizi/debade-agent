@@ -1,0 +1,30 @@
+{
+  "name": "debade-agent",
+  "version": "0.1.11",
+  "description": "Debade Agent Daemon",
+  "main": "index.js",
+  "bin": {
+      "debade-agent": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pihizi/debade-agent.git"
+  },
+  "keywords": [
+    "MessageQueue",
+    "MQ",
+    "AMQP"
+  ],
+  "author": "PiHiZi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pihizi/debade-agent/issues"
+  },
+  "homepage": "https://github.com/pihizi/debade-agent",
+  "dependencies": {
+      "amqplib": "0.2.1"
+  }
+}
