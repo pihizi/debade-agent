@@ -1,6 +1,6 @@
 {
   "name": "debade-agent",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Debade Agent Daemon",
   "main": "index.js",
   "bin": {
